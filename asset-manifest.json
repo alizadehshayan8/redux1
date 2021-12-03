@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/alizadehshayan8.github.io/redux1/static/js/main.861980e8.chunk.js",
+    "main.js.map": "/alizadehshayan8.github.io/redux1/static/js/main.861980e8.chunk.js.map",
+    "runtime-main.js": "/alizadehshayan8.github.io/redux1/static/js/runtime-main.d6f4bde2.js",
+    "runtime-main.js.map": "/alizadehshayan8.github.io/redux1/static/js/runtime-main.d6f4bde2.js.map",
+    "static/js/2.753ac39a.chunk.js": "/alizadehshayan8.github.io/redux1/static/js/2.753ac39a.chunk.js",
+    "static/js/2.753ac39a.chunk.js.map": "/alizadehshayan8.github.io/redux1/static/js/2.753ac39a.chunk.js.map",
+    "index.html": "/alizadehshayan8.github.io/redux1/index.html",
+    "static/js/2.753ac39a.chunk.js.LICENSE.txt": "/alizadehshayan8.github.io/redux1/static/js/2.753ac39a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f4bde2.js",
+    "static/js/2.753ac39a.chunk.js",
+    "static/js/main.861980e8.chunk.js"
+  ]
+}
